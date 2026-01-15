@@ -1,6 +1,7 @@
 # Data engineering Portfolio
 
-Hi, I’m Cheikh 👋  
+Hi, I’m Cheikh Abdoul 👋  
+
 I’m a graduate student in Information Systems with a focus on data analytics, databases, artificial intelligence in business, business intelligence, and data engeneering.
 
 This repository contains a collection of my personal projects demonstrating skills in:
