@@ -7,6 +7,7 @@ I’m a graduate student in Information Systems with a focus on data analytics, 
 This repository contains a collection of my personal projects demonstrating skills in:
 - Python & pandas
 - SQL & PostgreSQL
+- ASP.net, HTML , Rest APIs & C#
 - Data cleaning and transformation
 - Relational database design
 - Analytics-ready data modeling
