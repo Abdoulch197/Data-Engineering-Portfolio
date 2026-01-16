@@ -18,6 +18,12 @@ Analyzed Citi Bike and NOAA weather data to understand how weather affects bike 
 **Tools:** Python, PostgreSQL, SQL  
 👉 [View project](https://github.com/Abdoulch197/bike-rental-weather-analysis)
 
+### 🚨 CincyCrimeWatch – Crime Data Visualization & Alert System
+Built a web application that ingests and processes public crime data to support location-based analysis, interactive visualizations, and user alert subscriptions. Designed data pipelines and APIs to deliver analytics-ready crime trends by neighborhood, time, and offense type.
+
+**Tools:** HTML, Javascript, REST APIs
+👉 [View project](https://github.com/RichieXL/CincyCrimeWatch)
+
 *(More projects coming soon)*
 
 
