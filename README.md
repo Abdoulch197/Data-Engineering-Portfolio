@@ -25,6 +25,13 @@ Co-developed a web-based application that streamlines personal training operatio
 **Tools:** ASP.NET, HTML, C#, Entity Framework
 👉 [View project](https://github.com/babadele2/FinalProjectPTMS)
 
+### ⚙️ CademyCode – Data Engineering Pipeline
+Built an end-to-end ETL pipeline that extracts data from a relational SQLite database, cleans and transforms it using pandas, validates schema consistency, and produces an analytics-ready dataset for deployment.
+Designed the project to simulate a production-style workflow with logging, validation checks, and automated deployment using a Bash script.
+**Tools:** Python, Pandas, SQLite, Bash, Git  
+👉 [View project](https://github.com/Abdoulch197/cademycode-data-pipeline)
+
+
 *(More projects coming soon)*
 
 
