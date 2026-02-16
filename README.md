@@ -4,6 +4,7 @@ This repository contains a collection of my personal and academic projects demon
 - Python & pandas
 - SQL & PostgreSQL
 - ASP.net, HTML , Rest APIs & C#
+- Jupyter Notebook
 - Data cleaning and transformation
 - Relational database design
 - Analytics-ready data modeling
@@ -26,8 +27,7 @@ Co-developed a web-based application that streamlines personal training operatio
 👉 [View project](https://github.com/babadele2/FinalProjectPTMS)
 
 ### ⚙️ CademyCode – Data Engineering Pipeline
-Built an end-to-end ETL pipeline that extracts data from a relational SQLite database, cleans and transforms it using pandas, validates schema consistency, and produces an analytics-ready dataset for deployment.
-Designed the project to simulate a production-style workflow with logging, validation checks, and automated deployment using a Bash script.
+Built an end-to-end ETL pipeline that extracts data from a relational SQLite database, cleans and transforms it using pandas, validates schema consistency, and produces an analytics-ready dataset for deployment through Jupyter notebook. Designed the project to simulate a production-style workflow with logging, validation checks, and automated deployment using a Bash script.
 **Tools:** Python, Pandas, SQLite, Bash, Git , Jupyter notebook
 👉 [View project](https://github.com/Abdoulch197/cademycode-data-pipeline)
 
